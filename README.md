@@ -1,12 +1,12 @@
 ## Hi there, I'm GAZANFAR ALI 👋
 
-🎓 **Bachelor of Science in Artificial Intelligence**  
+🎓 **Enrolled in Bachelor of Science in Artificial Intelligence**  
 **University of Management and Technology Lahore**
 
 ---
 
 💼 **Technical Skills**  
-C++ · Python  
+C++ · Python · MySQL  
 Developing efficient, maintainable, and impactful solutions with a focus on quality and continuous improvement.
 
 ---
