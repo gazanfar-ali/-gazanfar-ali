@@ -1,8 +1,7 @@
 ## Hi there, I'm GAZANFAR ALI 👋
 
-🎓 **Enrolled in Bachelor of Science in Artificial Intelligence**  
-**University of Management and Technology Lahore**
-
+🎓 **Bachelor of Science in Artificial Intelligence**  
+**University of Management and Technology Lahore - From 2023 to 2027**
 ---
 
 💼 **Technical Skills**  
@@ -18,8 +17,8 @@ Outside of academics and development, I enjoy reading books and exploring new de
 ---
 
 🎯 **Current Focus**  
-• Advancing my expertise in Artificial Intelligence and Machine Learning 
-• Contributing to collaborative projects and open-source initiatives  
+• Advancing my expertise in Artificial Intelligence and Machine Learning    
+ • Contributing to collaborative projects and open-source initiatives  
 • Growing as a developer through hands-on experience and teamwork
 
 ---
