@@ -18,7 +18,7 @@ Outside of academics and development, I enjoy reading books and exploring new de
 ---
 
 🎯 **Current Focus**  
-• Advancing my expertise in Artificial Intelligence and Data Science  
+• Advancing my expertise in Artificial Intelligence and Machine Learning 
 • Contributing to collaborative projects and open-source initiatives  
 • Growing as a developer through hands-on experience and teamwork
 
