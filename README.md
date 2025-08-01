@@ -5,7 +5,7 @@
 ---
 
 💼 **Technical Skills**  
-C++ · Python · MySQL  
+C++ · Python · MySQL · Machine Learning · Artificial Intelligence  
 Developing efficient, maintainable, and impactful solutions with a focus on quality and continuous improvement.
 
 ---
@@ -26,5 +26,8 @@ Outside of academics and development, I enjoy reading books and exploring new de
 📬 **Let’s Connect**  
 I am always open to meaningful collaborations, challenging projects, and professional networking opportunities.
 
-📧 **Email:** itsgazanfar@gmail.com  
+📧 **Email:** itsgazanfar@gmail.com 
+
 💬 **WhatsApp:** +92 305 3839897
+
+💼  **LinkedIn** : https://www.linkedin.com/in/gazanfar-ali
