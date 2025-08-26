@@ -5,7 +5,7 @@
 ---
 
 💼 **Technical Skills**  
-C++ · Python · MySQL · Machine Learning · Artificial Intelligence  
+C++ · Python · MySQL · Machine Learning · Artificial Intelligence · Computer Vision 
 Developing efficient, maintainable, and impactful solutions with a focus on quality and continuous improvement.
 
 ---
@@ -17,7 +17,7 @@ Outside of academics and development, I enjoy reading books and exploring new de
 ---
 
 🎯 **Current Focus**  
-• Advancing my expertise in Artificial Intelligence and Machine Learning    
+• Advancing my expertise in Artificial Intelligence, Machine Learning & Computer Vision   
  • Contributing to collaborative projects and open-source initiatives  
 • Growing as a developer through hands-on experience and teamwork
 
